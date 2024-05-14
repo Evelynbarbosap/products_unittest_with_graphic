@@ -1,4 +1,5 @@
 plotly
 pandas
 fastapi
+uvicorn[standard]
 pydantic
