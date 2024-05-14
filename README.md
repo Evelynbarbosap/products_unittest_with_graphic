@@ -1,4 +1,4 @@
-O intuito do repositório é por em prática clean code, validações com pydantic, teste unitário e gráficos gerados na lib Plotly do python com FastApi. 
+O intuito do repositório é por em prática o clean code, validações com pydantic, teste unitário e gráficos gerados na lib Plotly do python com FastApi. 
 
 Para rodar o reposítório é preciso rodar:
 1) python3 -m venv env
